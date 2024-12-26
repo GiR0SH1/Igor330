@@ -13,8 +13,3 @@ GitHub: [Igor330](https://github.com/Igor330)
 
 [Техническое задание](TEXTTASK.md)
 
-## Инструкция по развертыванию
-
-1. **Клонирование репозитория:**
-   ```bash
-   git clone https://github.com/Igor330/угадай-число.git
