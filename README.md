@@ -13,3 +13,4 @@ GitHub: [Igor330](https://github.com/Igor330)
 
 [Техническое задание](TEXTTASK.md)
 
+[Инструкция](Instruction.md)
