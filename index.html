@@ -1,18 +1,20 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Разработка браузерной игры "Угадай число"</title>
     <link rel="stylesheet" href="style.css">
+    <title>Угадай число</title>
 </head>
 <body>
-    <header>
-        <h1>Разработка браузерной игры "Угадай число"</h1>
-    </header>
-    <footer>
-        <p>© 2024 Подшивалин Игорь</p>
-    </footer>
+    <div class="container">
+        <h1>Угадай число!</h1>
+        <p>Угадайте число от 1 до 100</p>
+        <input type="number" id="guess" placeholder="Введите ваше число">
+        <button id="submit">Проверить</button>
+        <div id="message"></div>
+        <button id="reset" style="display: none;">Начать заново</button>
+    </div>
     <script src="main.js"></script>
 </body>
 </html>
